@@ -1,1 +1,1 @@
-## Privcy file
+## Privacy file
